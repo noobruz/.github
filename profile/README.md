@@ -1,4 +1,4 @@
-![Noobruz Logo](./images/Noobruz.png)
+![Noobruz Logo](https://github.com/noobruz/.github/blob/main/profile/images/Noobruz.png)
 
 # Noobruz Community
 Welcome to the Cool Coders Community, where devs code the future. We're a GitHub organization founded by a group of friends, but we're also a community on Discord. Our goal is to create the new future by developing cutting-edge projects and incredible developer tools.
