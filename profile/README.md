@@ -1,7 +1,7 @@
 ![Noobruz Logo](https://github.com/noobruz/.github/blob/main/profile/images/Noobruz.png)
 
 # Noobruz Community
-Welcome to the Cool Coders Community, where devs code the future. We're a GitHub organization founded by a group of friends, but we're also a community on Discord. Our goal is to create the new future by developing cutting-edge projects and incredible developer tools.
+Welcome to Noobruz Community, where devs code the future. We're a GitHub organization founded by a group of friends, but we're also a community on Discord. Our goal is to create the new future by developing cutting-edge projects and incredible developer tools.
 
 ## What We Do
 We collaborate on ambitious personal projects that push the boundaries of what is possible with technology. We focus on developing new and innovative technologies. We also strive to create powerful developer tools that make the coding process more efficient and enjoyable. We share knowledge and resources, and push each other to be our best selves.
